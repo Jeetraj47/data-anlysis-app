@@ -1,0 +1,5 @@
+print('hello jeet!')
+print (1+4)
+print(7*9)
+print()
+print("the end")
